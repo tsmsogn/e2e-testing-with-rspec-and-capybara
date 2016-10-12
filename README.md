@@ -13,3 +13,7 @@
 bundle install
 bundle exec rake
 ```
+
+## License
+
+MIT
