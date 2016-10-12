@@ -18,6 +18,6 @@ describe '/', type: :feature do
   before { visit('/') }
 
   it 'Title' do
-    expect(page).to have_title 'aaaa'
+    expect(page).to have_title 'u.find.any?'
   end
 end
