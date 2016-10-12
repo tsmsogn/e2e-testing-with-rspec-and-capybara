@@ -2,6 +2,11 @@
 
 [![Build Status](https://travis-ci.org/tsmsogn/integration-test-skeleton-with-rspec-and-capybara.svg?branch=master)](https://travis-ci.org/tsmsogn/integration-test-skeleton-with-rspec-and-capybara)
 
+## Requirements
+
+- PhantomJS
+- Ruby >= 2.2.2
+
 ## Usage
 
 ```shell
